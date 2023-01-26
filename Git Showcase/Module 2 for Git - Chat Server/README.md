@@ -4,8 +4,6 @@ This software is a server that hosts a chat room, which allows users with the ch
 
 This program was designed to act as a stepping stone to learning more complex server projects.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (you will need to show two pieces of software running and communicating with each other) and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/iJ2HG2KUawE)
 
 # Network Communication
